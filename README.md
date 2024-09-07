@@ -10,19 +10,17 @@
 
 3. Introduction & Types of Machine Learning Methods
 
-4. Introduction & History of Regression
+4. A quick case study of a regression problem
 
-5. [Regression Problem - Use Cases](Management use cases of Regression.md)
+5. Machine Learning Methods for Regression Problems
 
-6. A quick case study of a regression problem
+6. Linear Regression - Introduction and History
 
-7. Machine Learning Methods for Regression Problems
+7. Regression Problem - Use Cases
 
-8. Linear Regression - Introduction and History
+8. Developing an ML Solution using Linear Regression
 
-9. Developing an ML Solution using Linear Regression
-
-10. Case Study
+9. 
 
 ---
 
